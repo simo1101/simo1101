@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simo1101
-- 👀 I’m interested in 3D printing, Electronics, soldering and much more
-- 🌱 I’m currently learning to build a self-balancing bike
+- 👀 I’m interested in 3D printing, Electronics, and much more
+- 🌱 I’m currently learning to build a self-balancing bike and to better solder
 - 📫 How to reach me: vatinnosimona@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: even tough I look serious and introverted, once I feel more relaxed I'm super outgoing
