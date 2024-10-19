@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @simo1101<br>👀 I’m interested in 3D printing, Electronics, and much more<br>🌱 I’m currently learning to build a self-balancing bike and to better solder<br>📫 How to reach me: vatinnosimona@gmail.com
+👋 Hi, I’m @simo1101<br>👀 I’m interested in 3D printing, Electronics, and much more<br>🌱 I’m currently learning to build a self-balancing bike and to better solder
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simona-vatinno-1b4226253) 
