@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @simo1101<br>👀 I’m interested in 3D printing, Electronics, and much more<br>🌱 I’m currently learning to build a self-balancing bike and to better solder
+👋 Hi, I’m @simo1101<br>👀 I’m interested in 3D printing, Electronics, and much more<br>🌱 I’m currently learning to build a self-balancing bike and to better solder, while attending a master's degree program in automation engineering.
 <br/>
 
 # 💻 Tech Stack:
