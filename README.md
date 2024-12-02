@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=simo1101&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=simo1101&layout=compact&theme=cobalt)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simona-vatinno-1b4226253) 
