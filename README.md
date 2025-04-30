@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @simo1101<br>👀 I’m a 3D printing enthusiast, interested in Robotics, and much more<br>🌱 I’m currently attending a Master's Degree in Automation Engineering <br/>😎 My newest project is about an omnidirectional robot<br> <br/>🥳 My latest project involved building a self-balancing bike
+👋 Hi, I’m @simo1101<br>👀 I’m a 3D printing enthusiast, interested in Robotics, and much more<br>🌱 I’m currently attending a Master's Degree in Automation Engineering <br/>😎 My newest project is about an omnidirectional robot <br/>🥳 My latest project involved building a self-balancing bike
 <br/>
 
 # 💻 Tech Stack:
