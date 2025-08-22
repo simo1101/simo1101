@@ -6,6 +6,7 @@
 🤖 Working on an **omnidirectional robot project**  
 🏍️ Built a **self-balancing bike prototype**  
 📷 Exploring **event-based vision**, **sensor fusion**, and **robot perception**  
+⚒️ With experience of laboratory instrumentation, soldering, and **3D printing (PLA prototyping)** 
 
 ---
 
@@ -18,8 +19,7 @@
 ![Simulink](https://img.shields.io/badge/simulink-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23FFDB00.svg?style=for-the-badge&logo=National-Instruments&logoColor=black) ![ROS2](https://img.shields.io/badge/ros2-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/gazebo-%23F7B93E.svg?style=for-the-badge&logo=gazebo&logoColor=white)  
 
 ### Hardware & Embedded Systems  
-![STM32](https://img.shields.io/badge/STM32-%230032A0.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-Laboratory instrumentation, soldering, and **3D printing (PLA prototyping)**  
+![STM32](https://img.shields.io/badge/STM32-%230032A0.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)   
 
 ### Machine Learning & Data Science  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
@@ -30,9 +30,9 @@ Laboratory instrumentation, soldering, and **3D printing (PLA prototyping)**
 ---
 
 # 🛠️ Projects  
-- **Self-balancing bicycle** – modeling, control, and implementation  
+- **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
 - **Precision scale** – design, realization, and calibration  
-- **Omnidirectional robot** – development and control implementation  
+- **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
 - **Reinforcement Learning for Timed Petri Nets** – optimization via RL techniques  
 - **DC motor speed control** – implemented using **LabVIEW** and **Arduino**  
 - **Centralized control algorithms for dual-arm planar manipulators** – implementation and comparison in **MATLAB/Simulink**  
