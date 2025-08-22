@@ -31,7 +31,7 @@
 
 # 🛠️ Projects  
 - **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
-- **Precision scale** – design, realization, and calibration  
+- **[Precision scale](https://github.com/mrheltic/Bilancia-SaT)** – design, realization, and calibration  
 - **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
 - **Reinforcement Learning for Timed Petri Nets** – optimization via RL techniques  
 - **DC motor speed control** – implemented using **LabVIEW** and **Arduino**  
