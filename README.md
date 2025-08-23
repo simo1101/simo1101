@@ -4,15 +4,19 @@
 
 🎓 Currently pursuing a **Master's Degree in Automation Engineering**  
 
-📚 My **Master’s Thesis** focuses on **event-based visual-inertial odometry** for robotics  
-
-📷 Currently exploring **event-based vision**, **neural accelerators**, and **transformers**
-
-🤖 Worked on an **[omnidirectional robot project](https://youtube.com/@shunkobot?si=JEMAU83TFJBWWGew)**  
-
-🏍️ Built a **self-balancing bike prototype**    
+📚 Currently exploring **event-based cameras**, **neural accelerators**, and **transformers** for my **Master’s Thesis**, that focuses on **event-based visual-inertial odometry** for embedded control and robotics  
 
 ⚒️ With experience of laboratory instrumentation, soldering, and **3D printing** with PLA
+
+---
+
+## 🛠️ Projects  
+- **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
+- **[Precision scale](https://github.com/mrheltic/Bilancia-SaT)** – design, realization, and calibration  
+- **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
+- **Reinforcement Learning for Timed Petri Nets** – optimization via RL techniques  
+- **DC motor speed control** – implemented using **LabVIEW** and **Arduino**  
+- **Centralized control algorithms for dual-arm planar manipulators** – implementation and comparison in **MATLAB/Simulink**  
 
 ---
 
@@ -32,16 +36,6 @@
 
 ### Other Tools  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
-
----
-
-## 🛠️ Projects  
-- **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
-- **[Precision scale](https://github.com/mrheltic/Bilancia-SaT)** – design, realization, and calibration  
-- **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
-- **Reinforcement Learning for Timed Petri Nets** – optimization via RL techniques  
-- **DC motor speed control** – implemented using **LabVIEW** and **Arduino**  
-- **Centralized control algorithms for dual-arm planar manipulators** – implementation and comparison in **MATLAB/Simulink**  
 
 ---
 
