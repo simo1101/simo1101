@@ -13,7 +13,7 @@
 ## 🛠️ Projects  
 - **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
 - **[Precision scale](https://github.com/mrheltic/Bilancia-SaT)** – design, realization, and calibration  
-- **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
+- **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation ([YouTube Channel](https://youtube.com/@shunkobot?si=LsYi_DxRr6kL8In3)) 
 - **Reinforcement Learning for Timed Petri Nets** – optimization via RL techniques  
 - **DC motor speed control** – implemented using **LabVIEW** and **Arduino**  
 - **Centralized control algorithms for dual-arm planar manipulators** – implementation and comparison in **MATLAB/Simulink**  
