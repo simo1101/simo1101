@@ -16,7 +16,7 @@
 
 ---
 
-# 💻 Tech Stack  
+## 💻 Tech Stack  
 
 ### Programming  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Prolog](https://img.shields.io/badge/Prolog-%23E61B23.svg?style=for-the-badge)
@@ -35,7 +35,7 @@
 
 ---
 
-# 🛠️ Projects  
+## 🛠️ Projects  
 - **[Self-balancing bicycle](https://github.com/Phersax/Self-balancing-bike)** – modeling, control, and implementation  
 - **[Precision scale](https://github.com/mrheltic/Bilancia-SaT)** – design, realization, and calibration  
 - **[Omnidirectional robot](https://github.com/murcie443/ShunkoBot)** – development and control implementation  
@@ -45,9 +45,6 @@
 
 ---
 
-# ✍️ Random Dev Quote  
+## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)  
 <br/>  
-
-# 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simona-vatinno-1b4226253)  
