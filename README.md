@@ -1,5 +1,3 @@
-# 💫 About Me  
-
 👋 Hi, I’m **Simy**
 
 🚀 Passionate about **Robotics**, **AI**, and **3D printing**  
@@ -8,13 +6,13 @@
 
 📚 My **Master’s Thesis** focuses on **event-based visual-inertial odometry** for robotics  
 
-🤖 Working on an **[omnidirectional robot project](https://youtube.com/@shunkobot?si=JEMAU83TFJBWWGew)**  
+📷 Currently exploring **event-based vision**, **neural accelerators**, and **transformers**
 
-🏍️ Built a **self-balancing bike prototype**  
+🤖 Worked on an **[omnidirectional robot project](https://youtube.com/@shunkobot?si=JEMAU83TFJBWWGew)**  
 
-📷 Exploring **event-based vision**, **sensor fusion**, and **robot perception**  
+🏍️ Built a **self-balancing bike prototype**    
 
-⚒️ With experience of laboratory instrumentation, soldering, and **3D printing (PLA prototyping)** 
+⚒️ With experience of laboratory instrumentation, soldering, and **3D printing** with PLA
 
 ---
 
