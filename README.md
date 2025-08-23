@@ -1,11 +1,19 @@
 # 💫 About Me  
-👋 Hi, I’m **Simona** (@simo1101)  
+
+👋 Hi, I’m **Simy**
+
 🚀 Passionate about **Robotics**, **AI**, and **3D printing**  
+
 🎓 Currently pursuing a **Master's Degree in Automation Engineering**  
+
 📚 My **Master’s Thesis** focuses on **event-based visual-inertial odometry** for robotics  
+
 🤖 Working on an **[omnidirectional robot project](https://youtube.com/@shunkobot?si=JEMAU83TFJBWWGew)**  
+
 🏍️ Built a **self-balancing bike prototype**  
+
 📷 Exploring **event-based vision**, **sensor fusion**, and **robot perception**  
+
 ⚒️ With experience of laboratory instrumentation, soldering, and **3D printing (PLA prototyping)** 
 
 ---
